@@ -30,7 +30,7 @@ A role-based task management application built using **ReactJS** that supports l
 
 | Role  | Email  | Password |
 | ----- | ------ | -------- |
-| Admin | `a1@a` | `123`    |
+| Admin | `admin@ems` | `1234`    |
 
 ---
 
