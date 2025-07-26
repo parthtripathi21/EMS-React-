@@ -5,7 +5,7 @@ A role-based task management application built using **ReactJS** that supports l
 ---
 
 🔗 <b>Live Demo</b>
-👉 [Here](https://parthtripathi21.github.io/React-EMS-/)
+👉 [Here](https://parthtripathi21.github.io/EMS-React-/)
 
 ---
 
